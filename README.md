@@ -17,8 +17,7 @@ Este projeto é um pipeline simples de análise de dados públicos do IBGE com P
 └── scripts
     ├── carregar.py
     └── gerar_graficos.py
-
-``` </pre>
+ </pre>
 
 ## Funcionalidades
 
@@ -42,5 +41,5 @@ Este projeto é um pipeline simples de análise de dados públicos do IBGE com P
  - Este projeto é educativo e voltado para a prática de **engenharia e análise de dados** com Python
 
  ## Autor
- Pedro Cruz - estudante de Engenharia de software
- Linkedin: [linkedin](https://www.linkedin.com/in/pedro-luiz-cruz-01aa1b1b2/)
+- Pedro Cruz - estudante de Engenharia de software
+- Linkedin: [linkedin](https://www.linkedin.com/in/pedro-luiz-cruz-01aa1b1b2/)
